@@ -1,0 +1,18 @@
+{
+  "name": "crudko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/Randriatsarafara/crudko",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randriatsarafara/crudko.git"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
